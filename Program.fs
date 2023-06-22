@@ -81,3 +81,4 @@ for i in monologue do
     count <- count + 1
     Thread.Sleep(50) //Async.Sleep(50) |> Async.RunSynchronously
 Console.ReadKey() |> ignore
+//
